@@ -29,6 +29,8 @@
 - Построить и обучить модель.
 ----------------------------------------
 4. **ИСПОЛЬЗУЕМЫЕ БИБЛИОТЕКИ:**
-- *pandas;
-- numpy;
-- matplotlib*
+- *pandas;*
+- *numpy;*
+- *matplotlib;*
+- *метрики из sklearn.metrics (mean_squared_error, make_scorer, mean_absolute_error);*
+- *seaborn.*
