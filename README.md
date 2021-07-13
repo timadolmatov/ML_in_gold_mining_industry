@@ -32,5 +32,5 @@
 - *pandas;*
 - *numpy;*
 - *matplotlib;*
-- *метрики из sklearn.metrics (mean_squared_error, make_scorer, mean_absolute_error);*
+- метрики из *sklearn.metrics (mean_squared_error, make_scorer, mean_absolute_error);*
 - *seaborn.*
